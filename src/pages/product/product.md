@@ -1,5 +1,5 @@
 ---
-templateKey: 'product-page'
+templateKey: product-page
 path: /products
 title: Our Coffee
 image: /img/jumbotron.jpg
@@ -98,4 +98,14 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+    - description: sdfg
+      items:
+        - '5'
+        - '6'
+        - '7'
+        - '8'
+        - '9'
+      plan: ander ding
+      price: '142'
 ---
+
